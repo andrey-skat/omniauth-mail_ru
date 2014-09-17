@@ -3,7 +3,7 @@ require 'omniauth-oauth2'
 module OmniAuth
   module Strategies
     class MailRu < OmniAuth::Strategies::OAuth2
-      option :name, 'mailru'
+      option :name, 'mail_ru'
 
       option :client_options, {
           site: 'https://connect.mail.ru/',
