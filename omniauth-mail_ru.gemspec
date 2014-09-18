@@ -7,7 +7,7 @@ Gem::Specification.new do |spec|
   spec.name          = 'omniauth-mail_ru'
   spec.version       = OmniAuth::MailRu::VERSION
   spec.authors       = ['Andrey Skuryatin']
-  spec.email         = ['andrey2004@gmai.com']
+  spec.email         = ['andrey.skuryatin@gmai.com']
   spec.summary       = %q{OmniAuth strategy for Mail.ru}
   spec.description   = %q{OmniAuth strategy for Mail.ru}
   spec.homepage      = 'https://github.com/andrey-skat/omniauth-mail_ru'
