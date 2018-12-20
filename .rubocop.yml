@@ -1,22 +1,4 @@
-ClassLength:
+Style/BracesAroundHashParameters:
   Enabled: false
-Layout/IndentHeredoc:
-  Enabled: false
-Metrics/AbcSize:
-  Enabled: false
-Metrics/BlockLength:
-  ExcludedMethods: ['describe', 'context']
-Metrics/CyclomaticComplexity:
-  Enabled: false
-Metrics/LineLength:
-  Enabled: false
-Metrics/MethodLength:
-  Enabled: false
-Metrics/PerceivedComplexity:
-  Enabled: false
-Naming:
-  Enabled: false
-Style/MutableConstant:
-  Enabled: false
-Gemspec/RequiredRubyVersion:
+Naming/FileName:
   Enabled: false
